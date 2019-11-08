@@ -1,0 +1,2 @@
+apt update && apt upgrade -y && apt install -y git && pkg install python2 -y && pip2 install requests && pip2 install mechanize && git clone https://github.com/ximi-xoo/virus-07 && git clone https://github.com/ximi-xoo/nila && git clone https://github.com/Mr-XsZ/Dark-Fb
+bash darktool.sh
